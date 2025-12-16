@@ -1,5 +1,0 @@
-{
-  "name": "Video2Prompt",
-  "description": "Transform your video clips into detailed descriptive prompts using Gemini 2.5 Flash. Ideal for reverse-engineering prompts for generative AI.",
-  "requestFramePermissions": []
-}
